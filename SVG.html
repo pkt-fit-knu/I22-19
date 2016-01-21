@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+
+<svg id ="picture" height="1400" width="1400"> 
+</svg> 
+
+<script> 
+
+
+//var color = ["green","red","yellow"]; 
+
+
+var DrawTree = function (a, b, c, d, e) 
+{ 
+
+var Tree = document.getElementById("picture"); 
+
+var Vetka = document.createElementNS("http://www.w3.org/2000/svg", "polygon"); 
+Vetka.setAttribute("points",a); 
+Vetka.style.fill="red"; 
+Tree.appendChild(Vetka); 
+
+var Vetka1 = document.createElementNS("http://www.w3.org/2000/svg", "polygon"); 
+Vetka1.setAttribute("points",b); 
+Vetka1.style.fill="green"; 
+Tree.appendChild(Vetka1); 
+
+var Vetka2 = document.createElementNS("http://www.w3.org/2000/svg", "polygon"); 
+Vetka2.setAttribute("points",c); 
+Vetka2.style.fill="red"; 
+Tree.appendChild(Vetka2); 
+
+var Vetka3 = document.createElementNS("http://www.w3.org/2000/svg", "polygon"); 
+Vetka3.setAttribute("points",d); 
+Vetka3.style.fill="green"; 
+Tree.appendChild(Vetka3); 
+
+var stolb = document.createElementNS("http://www.w3.org/2000/svg", "polygon"); 
+stolb.setAttribute("points",e); 
+stolb.style.fill="yellow"; 
+Tree.appendChild(stolb); 
+
+} 
+
+window.onload= new DrawTree("180,0 200,30 160,30","180,30 210,60 150,60","180,60 220,90 140,90","180,90 230,120 130,120","175,130 185,130 185,120 175,120"); 
+
+window.onload= new DrawTree("280,0 300,30 260,30","280,30 310,60 250,60","280,60 320,90 240,90","280,90 330,120 230,120","275,130 285,130 285,120 275,120"); 
+
+window.onload= new DrawTree("280,150 300,180 260,180","280,180 310,210 250,210","280,210 320,240 240,240","280,240 330,270 230,270","275,280 285,280 285,270 275,270"); 
+
+window.onload= new DrawTree("180,150 200,180 160,180","180,180 210,210 150,210","180,210 220,240 140,240","180,240 230,270 130,270","175,280 185,280 185,270 175,270"); 
+/*
+window.onload= new DrawTree("380,150 400,180 360,180","380,180 410,210 350,210","380,210 420,240 340,240","380,240 430,270 330,270","375,280 385,280 385,270 375,270"); 
+
+window.onload= new DrawTree("380,0 400,30 360,30","380,30 410,60 350,60","380,60 420,90 340,90","380,90 430,120 330,120","375,130 385,130 385,120 375,120"); 
+*/
+</script> 
+
+</body> 
+</html>
