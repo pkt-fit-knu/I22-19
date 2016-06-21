@@ -1,0 +1,6 @@
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\bin\Debug\1R Rule.exe.config
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\bin\Debug\1R Rule.exe
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\bin\Debug\1R Rule.pdb
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\obj\Debug\1R Rule.csprojResolveAssemblyReference.cache
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\obj\Debug\1R Rule.exe
+C:\Users\Чернышенко\Documents\Visual Studio 2015\Projects\1R Rule\1R Rule\obj\Debug\1R Rule.pdb
