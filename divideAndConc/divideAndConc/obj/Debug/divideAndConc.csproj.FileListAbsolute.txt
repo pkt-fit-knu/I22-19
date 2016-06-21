@@ -1,0 +1,6 @@
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe.config
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\divideAndConc.csprojResolveAssemblyReference.cache
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\newdivandcon.pdb

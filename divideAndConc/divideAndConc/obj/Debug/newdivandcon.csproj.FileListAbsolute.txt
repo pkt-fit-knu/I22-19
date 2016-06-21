@@ -1,0 +1,18 @@
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe.config
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\bin\Debug\newdivandcon.pdb
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\obj\Debug\newdivandcon.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\obj\Debug\newdivandcon.exe
+c:\users\anna\documents\visual studio 2012\Projects\newdivandcon\newdivandcon\obj\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe.config
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\obj\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\obj\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\bin\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\newdivandcon\newdivandcon\obj\Debug\newdivandcon.csprojResolveAssemblyReference.cache
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe.config
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.exe
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\bin\Debug\newdivandcon.pdb
+C:\Users\Чернышенко\Desktop\Учеба\2-й курс 2 семестр\БД\newdivandcon\newdivandcon\obj\Debug\newdivandcon.csprojResolveAssemblyReference.cache
